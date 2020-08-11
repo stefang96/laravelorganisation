@@ -1,0 +1,87 @@
+.chb{
+    margin-left:10px;
+}
+
+span.register{
+   color: red;
+}
+
+.divSlika
+{
+    background-size: cover;
+    min-height: 20rem;
+    height: 20rem;
+    border-radius: 0;
+    width: 100%;
+    color: #fff;
+}
+.hoverNews:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+}
+.logo
+{
+
+    cursor: pointer;
+}
+#tabela_paginate{
+    margin-left: 65%;
+}
+#tableMembers_paginate
+{
+    margin-left: 72%;
+}
+#tableNewsAndPayment_paginate{
+    margin-left: 45%;
+}
+#tablePayments_paginate
+{
+    margin-left: -78%;
+}
+#paymentOverview_paginate
+{
+    margin-left: 75%;
+}
+th.sorting_disabled
+{
+    display: none;
+}
+.form{
+    left: 50%;
+    top: 50%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+}
+
+.dataTables_filter
+{
+   display: none;
+}
+
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.navigacija:hover{
+
+
+    background-color: #17a2b8;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+
+}
+
+
